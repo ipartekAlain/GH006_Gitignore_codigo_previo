@@ -1,0 +1,7 @@
+#Fotos
+imagenes/
+!imagenes/img3.webp
+
+#archivos de texto
+*.txt
+!tareaspendientes.txt
