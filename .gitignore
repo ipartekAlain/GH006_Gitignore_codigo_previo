@@ -1,6 +1,7 @@
 #Fotos
-imagenes/
 !imagenes/img3.webp
+imagenes/
+
 
 #archivos de texto
 *.txt
